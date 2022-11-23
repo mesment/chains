@@ -1342,4 +1342,12 @@
     "height": 471,
     "format": "svg"
   }]
+}, {
+  "name": "bty",
+  "icons": [{
+    "url": "ipfs://QmUmJVof2m5e4HUXb3GmijWUFsLUNhrQiwwQG3CqcXEtHt",
+    "width": 91,
+    "height": 24,
+    "format": "png"
+  }]
 }]
